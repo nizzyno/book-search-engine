@@ -22,7 +22,7 @@ https://pristine-big-bend-74106.herokuapp.com
 
 ![demo screenshot](demo.png)
 
-(https://drive.google.com/file/d/1YD2VpvLyIbY4jFTbaMUdYCOzTlBF-o94/view)
+(https://drive.google.com/file/d/1sTcJ4wo_rlP9Ah4T3CMTJT46nNdHY639/view)
 
 ## Installation
 
