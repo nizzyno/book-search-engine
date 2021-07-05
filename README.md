@@ -6,6 +6,8 @@
 
 Full-Stack MERN app
 
+https://pristine-big-bend-74106.herokuapp.com
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -17,6 +19,10 @@ Full-Stack MERN app
 - [License](#license)
 
 ## Demo
+
+![demo screenshot](demo.png)
+
+(https://drive.google.com/file/d/1YD2VpvLyIbY4jFTbaMUdYCOzTlBF-o94/view)
 
 ## Installation
 
